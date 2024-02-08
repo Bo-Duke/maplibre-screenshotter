@@ -1,14 +1,11 @@
 # maplibre-screenshotter
 
-This template should help get you started developing with Vue 3 in Vite.
+1. Add some style.json urls
+2. Define coordinates, zoom and size
+3. ???
+4. Profit!! (if you have a way to profit from screenshots of basemaps)
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+![Example](./screenshot.png)
 
 ## Project Setup
 
@@ -33,3 +30,5 @@ npm run build
 ```sh
 npm run lint
 ```
+
+The generated screenshots don't have attributions, make sure to include some wherever you're going to display them
