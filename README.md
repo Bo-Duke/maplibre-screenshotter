@@ -1,5 +1,7 @@
 # maplibre-screenshotter
 
+[Demo](https://maplibre-screenshotter.netlify.app/)
+
 1. Add some style.json urls
 2. Define coordinates, zoom and size
 3. ???
