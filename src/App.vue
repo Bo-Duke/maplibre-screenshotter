@@ -1,4 +1,7 @@
 <template>
+  <a class="github-link" href="https://github.com/Bo-Duke/maplibre-screenshotter" target="_blank">
+    View on GitHub
+  </a>
   <main>
     <div id="form-main">
       <h1>🖼 Maplibre screenshotter</h1>
@@ -137,5 +140,12 @@ main input {
 h1 {
   font-size: 2em;
   text-align: left;
+}
+.github-link {
+  position: absolute;
+  top: 0;
+  right: 0;
+  margin: 1em;
+  text-decoration: none;
 }
 </style>
